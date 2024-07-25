@@ -1,5 +1,6 @@
 ##
 **Dignity Programming Language**
+<span style="font-family: Arial;>
 Dignity is a new programming language designed for large, complex projects that need simpler ways to write source code. Its simple and intuitive syntax allows you to define styles, click events, and perform arithmetic operations with ease.
 
 *Table of Contents*
